@@ -64,10 +64,10 @@ The Movie Rating Predictor Application offers a valuable tool for both movie ent
 
 ## About the Developer
 
-This project is developed by **Abhishek Kushwaha**.
+This project is developed by **Manoj Kumar Sen**.
 
-**LinkedIn:** https://www.linkedin.com/in/abhishek10027
+**LinkedIn:** https://www.linkedin.com/in/manu2705/
 
-**GitHub:**  https://github.com/abhishek10027
+**GitHub:**  https://github.com/Manoj-Sen
 
 🚀🔍📈
